@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
+                "content": "https://foruda.gitee.com/avatar/1677224811967757368/10935887_chen-xiuxian_1661395341.png!avatar200",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -233,7 +233,7 @@
                 "y": "y*0.1"
             },
             "version": "1.0.0",
-            "poweredBy": "Luckey",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": true,
             "size": {
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "http://www.luckyzmj.cn",
+            "url": "https://chen-xiuxian.github.io/",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -662,7 +662,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": false,
             "size": {
@@ -670,7 +670,7 @@
                 "width": "x*0.8"
             },
             "title": "GoogleHacking",
-            "url": "http://luckyzmj.cn/GoogleHacking/",
+            "url": "https://chen-xiuxian.github.io/",
             "customTile": "",
             "urlRandomToken": true
         },
@@ -761,7 +761,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": false,
             "size": {
@@ -794,7 +794,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": false,
             "size": {
@@ -827,7 +827,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": false,
             "size": {
@@ -860,7 +860,7 @@
                 "y": "y*0.05"
             },
             "version": "1.0.0",
-            "poweredBy": "luckyzmj",
+            "poweredBy": "Chenxiuxian",
             "resizable": true,
             "single": false,
             "size": {
